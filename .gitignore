@@ -1,0 +1,6 @@
+.storage/
+__pycache__/
+deps/
+*.db
+home-assistant.log
+home-assistant_v2.db
